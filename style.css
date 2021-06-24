@@ -4,6 +4,7 @@ h1.center {
 
 .text-centered {
   text-align: center;
+  width: 250px;
 }
 
 .light-background {
@@ -12,10 +13,6 @@ h1.center {
 }
 
 .wrapper {
-  width: 75px;
+  width: 100px;
   margin: auto;
-}
-
-img.center {
-  text-align: center;
 }
