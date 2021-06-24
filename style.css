@@ -23,6 +23,7 @@ header h2 {
 
 footer {
   background-color: salmon;
+  padding: 10px;
 }
 section {
   padding: 0 25%;
