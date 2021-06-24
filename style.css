@@ -15,3 +15,7 @@ h1.center {
   width: 75px;
   margin: auto;
 }
+
+img.center {
+  text-align: center;
+}
