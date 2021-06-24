@@ -84,7 +84,7 @@ em {
 footer p {
   color: #fff;
   text-align: center;
-  padding: 30px;
+  padding: 10px;
   margin: 0;
 }
 
@@ -100,6 +100,6 @@ iframe {
 /* -------  Modifier styles ------- */
 
 .border-top {
-  padding-top: 80px;
+  padding-top: 80x;
   border-top: 2px solid salmon;
 }
