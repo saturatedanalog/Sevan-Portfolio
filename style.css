@@ -6,7 +6,7 @@ header {
 .logo {
   font-family: "Garamond", cursive;
   font-size: 72px;
-  color: Gray;
+  color: gray;
   text-align: center;
   letter-spacing: -3;
   margin: 0;
@@ -22,7 +22,7 @@ header h2 {
 }
 
 footer {
-  background-color: salmon;
+  background-color: #403933;
 }
 section {
   padding: 0 25%;
