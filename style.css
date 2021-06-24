@@ -6,3 +6,8 @@
   background-color: salmon;
   color: #82aff9;
 }
+
+.wrapper {
+  width: 200px;
+  margin: auto;
+}
