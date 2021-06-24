@@ -105,7 +105,7 @@ iframe {
 }
 
 a {
-  text-alignl: center;
+  text-align: center;
 }
 
 a[href^="mailto:"] {
