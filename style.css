@@ -103,3 +103,7 @@ iframe {
   padding-top: 80x;
   border-top: 2px solid salmon;
 }
+
+a[href^="mailto:"] {
+  text-decoration: none;
+}
