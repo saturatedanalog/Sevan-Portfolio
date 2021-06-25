@@ -59,6 +59,7 @@ li {
 a {
   font-weight: 700;
   text-decoration: none;
+  text-align: center;
 }
 a:link {
   color: #030706;
@@ -86,10 +87,6 @@ footer p {
   text-align: center;
   padding: 10px;
   margin: 0;
-}
-
-footer a {
-  text-align: center;
 }
 
 /* -------  Elements ------- */
