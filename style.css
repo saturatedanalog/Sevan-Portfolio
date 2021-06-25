@@ -1,6 +1,6 @@
 header {
   height: 160px;
-  background-color: salmon;
+  background-color: rgb(255, 196, 189);
 }
 
 .logo {
@@ -22,7 +22,7 @@ header h2 {
 }
 
 footer {
-  background-color: salmon;
+  background-color: rgb(252, 178, 169);
   padding: 75px 50px;
 }
 section {
@@ -101,13 +101,13 @@ iframe {
 
 .border-top {
   padding-top: 80x;
-  border-top: 2px solid salmon;
+  border-top: 2px rgb(255, 186, 179);
 }
 
 footer a {
   text-align: center;
 }
 
-a[href^="mailto:"] {
+a [href^="mailto:"] {
   text-decoration: none;
 }
