@@ -88,6 +88,10 @@ footer p {
   margin: 0;
 }
 
+footer a {
+  text-align: center;
+}
+
 /* -------  Elements ------- */
 
 img,
@@ -102,10 +106,6 @@ iframe {
 .border-top {
   padding-top: 80x;
   border-top: 2px rgb(255, 186, 179);
-}
-
-.footer {
-  text-align: center;
 }
 
 a [href^="mailto:"] {
